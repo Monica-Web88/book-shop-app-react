@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "To Kill a Mocking Bird",
+    "author": "Harper Lee",
+    "price": 10,
+    "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F1.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 2,
+    "name": "Room on the Roof",
+    "author": "Ruskin Bond",
+    "price": 20,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F2.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+
+  {
+    "id": 3,
+    "name": "Tale of Two cities",
+    "author": "Charles Dickens",
+    "price": 24,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F3.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 4,
+    "name": "Good to Great",
+    "author": "Jim Collins",
+    "price": 15,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F4.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 5,
+    "name": "Pride and Prejudice",
+    "author": "Jane Austin",
+    "price": 25,
+    "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F5.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 6,
+    "name": "Who Moved my Cheese",
+    "author": "Spencer Johnson",
+    "price": 26,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F6.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+
+  {
+    "id": 7,
+    "name": "War and Peace",
+    "author": "Allen Ginsberg",
+    "price": 12,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F7.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 8,
+    "name": "Start with Why",
+    "author": "Simon Sinek",
+    "price": 18,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F8.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 9,
+    "name": "The Power of Habit",
+    "author": "Charles Duhig",
+    "price": 15,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F9.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  },
+  {
+    "id": 10,
+    "name": "1984",
+    "author": "George Orwell",
+    "price": 16,
+     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F26.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "quanty": 1
+  }
+]
