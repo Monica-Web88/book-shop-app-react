@@ -1,7 +1,9 @@
+-This App is published in GitHub and can be viewed at below link
+https://monica-web88.github.io/book-shop-app-react/
+
 -This Book Shopping App displays a list of Books along with price details using React Hooks and Custom Components.
 -User can add the books to cart.
 -Cart displays the list of added items along with the total price
--App is published in GitHub and can be viewed at below link
 
 
 # Getting Started with Create React App
