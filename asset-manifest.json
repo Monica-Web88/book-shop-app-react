@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/book-shop-app-react/static/css/main.cb797292.css",
+    "main.js": "/book-shop-app-react/static/js/main.e033c2cb.js",
+    "static/js/453.a76b8942.chunk.js": "/book-shop-app-react/static/js/453.a76b8942.chunk.js",
+    "static/media/books.jpg": "/book-shop-app-react/static/media/books.82e27716d1bcd45947a4.jpg",
+    "index.html": "/book-shop-app-react/index.html",
+    "main.cb797292.css.map": "/book-shop-app-react/static/css/main.cb797292.css.map",
+    "main.e033c2cb.js.map": "/book-shop-app-react/static/js/main.e033c2cb.js.map",
+    "453.a76b8942.chunk.js.map": "/book-shop-app-react/static/js/453.a76b8942.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb797292.css",
+    "static/js/main.e033c2cb.js"
+  ]
+}
