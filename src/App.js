@@ -9,7 +9,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='book-shop-app-react/' element={<Home />} />
-          <Route path='/cart' element={<CartContent />} />
+          <Route path='book-shop-app-react/cart' element={<CartContent />} />
         </Routes>
       </BrowserRouter>
     </DataProvider>
