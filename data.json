@@ -42,7 +42,7 @@
     "id": 6,
     "name": "A Tale of Two Cities",
     "author": "Charles Dickens",
-    "price": 13,
+    "price": 12,
     "img": "https://covers.openlibrary.org/b/isbn/9780141439600-L.jpg",
     "quanty": 1
   },
@@ -56,9 +56,9 @@
   },
   {
     "id": 8,
-    "name": "Alice's Adventures in Wonderland",
+    "name": "Alice in Wonderland",
     "author": "Lewis Carroll",
-    "price": 10,
+    "price": 20,
     "img": "https://covers.openlibrary.org/b/isbn/9780141321073-L.jpg",
     "quanty": 1
   },
@@ -66,7 +66,7 @@
     "id": 9,
     "name": "Through the Looking-Glass",
     "author": "Lewis Carroll",
-    "price": 10,
+    "price": 15,
     "img": "https://covers.openlibrary.org/b/isbn/9780141321097-L.jpg",
     "quanty": 1
   },
@@ -74,7 +74,7 @@
     "id": 10,
     "name": "The Hunting of the Snark",
     "author": "Lewis Carroll",
-    "price": 8,
+    "price": 14,
     "img": "https://covers.openlibrary.org/b/isbn/9780486268897-L.jpg",
     "quanty": 1
   }
