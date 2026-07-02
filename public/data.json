@@ -1,84 +1,129 @@
 [
-  {
-    "id": 1,
-    "name": "To Kill a Mocking Bird",
-    "author": "Harper Lee",
-    "price": 10,
-    "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F1.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
-    "quanty": 1
-  },
+  { "id": 1, 
+  "name": "To Kill a Mocking Bird", 
+  "author": "Harper Lee", 
+  "price": 10, 
+  "img": "https://covers.openlibrary.org/b/isbn/9780446310789-L.jpg", 
+  "quanty": 1 
+},
   {
     "id": 2,
-    "name": "Room on the Roof",
-    "author": "Ruskin Bond",
-    "price": 20,
-     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F2.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "name": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "price": 15,
+    "img": "https://covers.openlibrary.org/b/isbn/9780307474278-L.jpg",
     "quanty": 1
   },
-
   {
     "id": 3,
-    "name": "Tale of Two cities",
-    "author": "Charles Dickens",
-    "price": 24,
-     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F3.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "name": "Angels & Demons",
+    "author": "Dan Brown",
+    "price": 14,
+    "img": "https://covers.openlibrary.org/b/isbn/9780743493468-L.jpg",
     "quanty": 1
   },
   {
     "id": 4,
-    "name": "Good to Great",
-    "author": "Jim Collins",
-    "price": 15,
-     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F4.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "name": "Inferno",
+    "author": "Dan Brown",
+    "price": 16,
+    "img": "https://covers.openlibrary.org/b/isbn/9781400079155-L.jpg",
     "quanty": 1
   },
   {
     "id": 5,
-    "name": "Pride and Prejudice",
-    "author": "Jane Austin",
-    "price": 25,
-    "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F5.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "name": "Goosebumps: Welcome to Dead House",
+    "author": "R. L. Stine",
+    "price": 9,
+    "img": "https://covers.openlibrary.org/b/isbn/9780590453653-L.jpg",
     "quanty": 1
   },
   {
     "id": 6,
-    "name": "Who Moved my Cheese",
-    "author": "Spencer Johnson",
-    "price": 26,
-     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F6.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "name": "Goosebumps: Night of the Living Dummy",
+    "author": "R. L. Stine",
+    "price": 9,
+    "img": "https://covers.openlibrary.org/b/isbn/9780590483513-L.jpg",
     "quanty": 1
   },
-
   {
     "id": 7,
-    "name": "War and Peace",
-    "author": "Allen Ginsberg",
-    "price": 12,
-     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F7.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "name": "Fear Street: The New Girl",
+    "author": "R. L. Stine",
+    "price": 10,
+    "img": "https://covers.openlibrary.org/b/isbn/9780671695064-L.jpg",
     "quanty": 1
   },
   {
     "id": 8,
-    "name": "Start with Why",
-    "author": "Simon Sinek",
-    "price": 18,
-     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F8.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "name": "Great Expectations",
+    "author": "Charles Dickens",
+    "price": 12,
+    "img": "https://covers.openlibrary.org/b/isbn/9780141439563-L.jpg",
     "quanty": 1
   },
   {
     "id": 9,
-    "name": "The Power of Habit",
-    "author": "Charles Duhig",
-    "price": 15,
-     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F9.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "name": "Oliver Twist",
+    "author": "Charles Dickens",
+    "price": 11,
+    "img": "https://covers.openlibrary.org/b/isbn/9780141439747-L.jpg",
     "quanty": 1
   },
   {
     "id": 10,
-    "name": "1984",
-    "author": "George Orwell",
-    "price": 16,
-     "img": "https://firebasestorage.googleapis.com/v0/b/br-bookaholic.appspot.com/o/BookImages%2F26.jpg?alt=media&token=6316abd8-eee5-4e16-a446-9c9ad9a2316d",
+    "name": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "price": 13,
+    "img": "https://covers.openlibrary.org/b/isbn/9780141439600-L.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 11,
+    "name": "The Famous Five: Five on a Treasure Island",
+    "author": "Enid Blyton",
+    "price": 10,
+    "img": "https://covers.openlibrary.org/b/isbn/9780340894545-L.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 12,
+    "name": "The Secret Seven",
+    "author": "Enid Blyton",
+    "price": 9,
+    "img": "https://covers.openlibrary.org/b/isbn/9780340893166-L.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 13,
+    "name": "Malory Towers: First Term at Malory Towers",
+    "author": "Enid Blyton",
+    "price": 11,
+    "img": "https://covers.openlibrary.org/b/isbn/9781405270014-L.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 14,
+    "name": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "price": 10,
+    "img": "https://covers.openlibrary.org/b/isbn/9780141321073-L.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 15,
+    "name": "Through the Looking-Glass",
+    "author": "Lewis Carroll",
+    "price": 10,
+    "img": "https://covers.openlibrary.org/b/isbn/9780141321097-L.jpg",
+    "quanty": 1
+  },
+  {
+    "id": 16,
+    "name": "The Hunting of the Snark",
+    "author": "Lewis Carroll",
+    "price": 8,
+    "img": "https://covers.openlibrary.org/b/isbn/9780486268897-L.jpg",
     "quanty": 1
   }
 ]
