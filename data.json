@@ -32,46 +32,14 @@
   },
   {
     "id": 5,
-    "name": "Goosebumps: Welcome to Dead House",
-    "author": "R. L. Stine",
-    "price": 9,
-    "img": "https://covers.openlibrary.org/b/isbn/9780590453653-L.jpg",
+    "name": "The Magic Faraway Tree",
+    "author": "Enid Blyton",
+    "price": 12,
+    "img": "https://covers.openlibrary.org/b/isbn/9781444959437-L.jpg",
     "quanty": 1
   },
   {
     "id": 6,
-    "name": "Goosebumps: Night of the Living Dummy",
-    "author": "R. L. Stine",
-    "price": 9,
-    "img": "https://covers.openlibrary.org/b/isbn/9780590483513-L.jpg",
-    "quanty": 1
-  },
-  {
-    "id": 7,
-    "name": "Fear Street: The New Girl",
-    "author": "R. L. Stine",
-    "price": 10,
-    "img": "https://covers.openlibrary.org/b/isbn/9780671695064-L.jpg",
-    "quanty": 1
-  },
-  {
-    "id": 8,
-    "name": "Great Expectations",
-    "author": "Charles Dickens",
-    "price": 12,
-    "img": "https://covers.openlibrary.org/b/isbn/9780141439563-L.jpg",
-    "quanty": 1
-  },
-  {
-    "id": 9,
-    "name": "Oliver Twist",
-    "author": "Charles Dickens",
-    "price": 11,
-    "img": "https://covers.openlibrary.org/b/isbn/9780141439747-L.jpg",
-    "quanty": 1
-  },
-  {
-    "id": 10,
     "name": "A Tale of Two Cities",
     "author": "Charles Dickens",
     "price": 13,
@@ -79,15 +47,7 @@
     "quanty": 1
   },
   {
-    "id": 11,
-    "name": "The Famous Five: Five on a Treasure Island",
-    "author": "Enid Blyton",
-    "price": 10,
-    "img": "https://covers.openlibrary.org/b/isbn/9780340894545-L.jpg",
-    "quanty": 1
-  },
-  {
-    "id": 12,
+    "id": 7,
     "name": "The Secret Seven",
     "author": "Enid Blyton",
     "price": 9,
@@ -95,15 +55,7 @@
     "quanty": 1
   },
   {
-    "id": 13,
-    "name": "Malory Towers: First Term at Malory Towers",
-    "author": "Enid Blyton",
-    "price": 11,
-    "img": "https://covers.openlibrary.org/b/isbn/9781405270014-L.jpg",
-    "quanty": 1
-  },
-  {
-    "id": 14,
+    "id": 8,
     "name": "Alice's Adventures in Wonderland",
     "author": "Lewis Carroll",
     "price": 10,
@@ -111,7 +63,7 @@
     "quanty": 1
   },
   {
-    "id": 15,
+    "id": 9,
     "name": "Through the Looking-Glass",
     "author": "Lewis Carroll",
     "price": 10,
@@ -119,7 +71,7 @@
     "quanty": 1
   },
   {
-    "id": 16,
+    "id": 10,
     "name": "The Hunting of the Snark",
     "author": "Lewis Carroll",
     "price": 8,
